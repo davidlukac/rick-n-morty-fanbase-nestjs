@@ -5,14 +5,14 @@
 This simple CRUD REST application, based on generated [NestJS started plate](https://docs.nestjs.com/first-steps#setup), is a brief demonstration of TypeScript
 and NestJS skills, coveringv following requirements:
 
-> Simple CRUD service exposing REST endpoints to:
->
-> 1. Favourite characters, locations, & episodes.
-> 2. Review and rate episodes.
->    1. Include text.
->    2. Star rating (1-5).
-> 3. Create open API definition for your schema (OAS3).
-> 4. Write unit tests and show coverage report.
+Simple CRUD service exposing REST endpoints to:
+
+1. Favourite characters, locations, & episodes.
+2. Review and rate episodes.
+   1. Include text.
+   2. Star rating (1-5).
+3. Create open API definition for your schema (OAS3).
+4. Write unit tests and show coverage report.
 
 ## Installation
 
