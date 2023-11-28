@@ -97,3 +97,7 @@ $ npm run test:cov
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Screenshots
+
+![Swagger UI](documentation/image.png)
