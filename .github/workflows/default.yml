@@ -39,8 +39,7 @@ jobs:
 
       - name: Get Swagger JSON
         run: |
-          mkdir -p artifacts
-          curl -s --fail --show-error http://localhost:3000/api-json --output artifacts/swagger.json
+          npm run export-swagger
 
       - name: Save Swagger JSON as artifact
         uses: actions/upload-artifact@v3
