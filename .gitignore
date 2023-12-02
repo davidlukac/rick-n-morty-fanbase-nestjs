@@ -1,6 +1,7 @@
-# compiled output
+# Compiled output and artifacts.
 /dist
 /node_modules
+/artifacts
 
 # Logs
 logs

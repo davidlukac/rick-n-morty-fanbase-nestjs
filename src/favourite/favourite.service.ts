@@ -3,7 +3,7 @@ import { CreateFavouriteDto } from './dto/create-favourite.dto';
 import { Favourite } from './entities/favourite.entity';
 import { InjectRepository } from '@nestjs/typeorm';
 import { QueryFailedError, Repository } from 'typeorm';
-import { User } from '../user/entities/user.entity';
+import { User } from '@user/entities/user.entity';
 import { EntityType } from './entities/entity-type.entity';
 
 /**
